@@ -1,5 +1,3 @@
 #theme: jekyll-theme-merlot
-#remote_theme: heiswayi/the-plain
-#logo_url: https://i.imgur.com/DtgcvH7.png # Get it from GitHub API: https://api.github.com/users/<username>
-##style: :default
-remote_theme: adueck/good-clean-read
+remote_theme: heiswayi/the-plain
+logo_url: https://i.imgur.com/DtgcvH7.png # Get it from GitHub API: https://api.github.com/users/<username>
