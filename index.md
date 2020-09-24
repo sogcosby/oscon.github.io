@@ -1,7 +1,7 @@
 # Osby Spelkonvent XV (2020)
 Välkommen till Osby Spelkonvent, det lilla spelkonventet med massor med skoj och flera års erfarenhet av det. Konventet har funnits i någon form sedan 2004 (om vi räknar med våra olika lan) och vi har hela tiden jobbat med att göra det bättre och roligare.
 
-På denna sidan samlar vi allt som har med konventet att göra. ![](https://i.imgur.com/DtgcvH7.png =200px)
+På denna sidan samlar vi allt som har med konventet att göra. ![](https://i.imgur.com/DtgcvH7.png =100px)
 
 Som du säkert har förstått är det inte riktigt ett normalt år, och därför är det inte heller ett normalt konvent och vi kommer köra lite annorlunda än normalt.
 
