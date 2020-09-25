@@ -1,3 +1,4 @@
 #theme: jekyll-theme-merlot
 remote_theme: heiswayi/the-plain
-logo_url: https://i.imgur.com/DtgcvH7.png # Get it from GitHub API: https://api.github.com/users/<username>
+#logo_url: https://i.imgur.com/DtgcvH7.png # Get it from GitHub API: https://api.github.com/users/<username>
+logo_url: oscon2020.svg # Get it from GitHub API: https://api.github.com/users/<username>
