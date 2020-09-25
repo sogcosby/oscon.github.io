@@ -13,7 +13,9 @@ Anmälningar till de olika turneringarna kommer dyka upp här inom kort.
 ### Fredag 2020-09-23
 #### Brawlhalla - Brawlcrawl (1v1)
 Vi kör en härlig brawlcrawl i Brawlhalla på fredagskvällen och en bit in på natten. En härlig turnering där alla kan vara med oavsett plattoform.
+
 *Pris* Presentkort på Steam
+
 *Anmälan*
 
 #### Among Us
@@ -22,15 +24,20 @@ För den som inte är sugen på att slåss med sina vänner så tipsar vi om att
 ### Lördag 2020-09-23
 #### Minecraft
 Minecraft är inte riktigt en specifik turnering, utan massa små turneringar och tävlingar både i byggande, fightning och parkour. Vi har en öppen server där alla är välkomna och vi kommer hålla streams från denna under hela dagen.
+
 *Pris* Vi kommer ha priser i flera turneringar och tävlingar. Bland annat presentkort på Steam.
+
 *Anmälan*
 
 #### League of Legends
 Eftersom inte alla hänger i Minecraft så om det finns intresse så är det inte omöjligt vi slänger upp en turnering i LoL.
+
 *Anmälan*
 
 ### Söndag 2020-09-23
 #### Rocket League
 För att avsluta en episk helg, så håller vi en turnering i Rocket League 1v1 om vi inte får ihop riktigt mycket spelare.
+
 *Pris* Presentkort på Steam
+
 *Anmälan*
