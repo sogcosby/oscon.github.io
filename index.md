@@ -17,6 +17,7 @@ Vi kör en härlig brawlcrawl i Brawlhalla på fredagskvällen och en bit in på
 *Pris* Presentkort på Steam
 
 *Anmälan*
+[Anmäl dig på Battlefy!](https://battlefy.com/oscon/oscon-2020-brawlcrawl/5f6b8a6629a4e27bb758da2b/info?infoTab=details)
 
 #### Among Us
 För den som inte är sugen på att slåss med sina vänner så tipsar vi om att alltid sitta och hänga med dina vänner i among us, vi ska försöka att streama ut detta lite då och då också för att se den stora spänningen.
