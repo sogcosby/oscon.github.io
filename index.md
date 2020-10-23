@@ -7,6 +7,9 @@ Som du säkert har förstått är det inte riktigt ett normalt år, och därför
 
 Vi kommer inte ha vårt klassiska BYOD-LAN eller ja, delvis men alla kommer få vara med hemifrån. Däremot kommer vi ha fantastiska turneringar, fina priser och en härlig stream där vi ska försöka visa allt.
 
+För att komma till vår twitch: https://www.twitch.tv/sogc
+För att komma till vår discord: https://discord.gg/dTP7mdP
+
 Anmälningar till de olika turneringarna kommer dyka upp här inom kort.
 
 ## Turneringar
