@@ -24,4 +24,4 @@ På grund utav oförutsägbara händelser (bland annat då vi inte längre kan k
 Vi hade ett härligt gäng som var inne på vår minecraft-server och vi välkomnar alltid fler spelare där.
 
 Vill du hänga med alla roliga människor som normalt hänger på konventet? Släng dig in i vår discord. Tills dess så har vi ett trevligt årsmöte om 5 timmar där vi diskuterar kommande året och börjar diskutera nästa konvent.
-``
+```
