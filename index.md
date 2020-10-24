@@ -7,16 +7,25 @@ Som du säkert har förstått är det inte riktigt ett normalt år, och därför
 
 Vi kommer inte ha vårt klassiska BYOD-LAN eller ja, delvis men alla kommer få vara med hemifrån. Däremot kommer vi ha fantastiska turneringar, fina priser och en härlig stream där vi ska försöka visa allt.
 
+För att komma till vår twitch: 
+[https://www.twitch.tv/sogc](https://www.twitch.tv/sogc)
+
+
+För att komma till vår discord: 
+[https://discord.gg/dTP7mdP](https://discord.gg/dTP7mdP)
+
+
 Anmälningar till de olika turneringarna kommer dyka upp här inom kort.
 
 ## Turneringar
 ### Fredag 2020-09-23
 #### Brawlhalla - Brawlcrawl (1v1)
-Vi kör en härlig brawlcrawl i Brawlhalla på fredagskvällen och en bit in på natten. En härlig turnering där alla kan vara med oavsett plattoform.
+Vi kör en härlig brawlcrawl i Brawlhalla på fredagskvällen och en bit in på natten. En härlig turnering där alla kan vara med oavsett plattform.
 
 *Pris* Presentkort på Steam
 
 *Anmälan*
+[Anmäl dig på Battlefy!](https://battlefy.com/oscon/oscon-2020-brawlcrawl/5f6b8a6629a4e27bb758da2b/info?infoTab=details)
 
 #### Among Us
 För den som inte är sugen på att slåss med sina vänner så tipsar vi om att alltid sitta och hänga med dina vänner i among us, vi ska försöka att streama ut detta lite då och då också för att se den stora spänningen.
