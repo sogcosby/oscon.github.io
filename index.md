@@ -17,3 +17,11 @@ För att komma till vår discord:
 
 # VIKTIG INFORMATION
 Då vi tyvärr upptäckte att vi inte har någon möjlighet att komma åt några spelservers eller liknande från Fritidsgården Pulsen så kommer vi inte kunna slutföra konventet så som vi har tänkt. Alla är välkomna in på vår discordserver och gå med i exempelvis vår Minecraft server som kommer ligga uppe ett tag till.
+
+```
+På grund utav oförutsägbara händelser (bland annat då vi inte längre kan komma åt 90% av spelservers från Pulsen) så har vi inte någon möjlighet att slutföra det arrangemang som vi hade tänkt ha.
+
+Vi hade ett härligt gäng som var inne på vår minecraft-server och vi välkomnar alltid fler spelare där.
+
+Vill du hänga med alla roliga människor som normalt hänger på konventet? Släng dig in i vår discord. Tills dess så har vi ett trevligt årsmöte om 5 timmar där vi diskuterar kommande året och börjar diskutera nästa konvent.
+``
